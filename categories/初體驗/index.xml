@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>初體驗 on david&#39;s website</title>
+    <link>https://wuwoops.github.io/categories/%E5%88%9D%E9%AB%94%E9%A9%97/</link>
+    <description>Recent content in 初體驗 on david&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 22 Oct 2023 14:55:00 +0800</lastBuildDate><atom:link href="https://wuwoops.github.io/categories/%E5%88%9D%E9%AB%94%E9%A9%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>david&#39;s first article</title>
+      <link>https://wuwoops.github.io/blog/test/</link>
+      <pubDate>Sun, 22 Oct 2023 14:55:00 +0800</pubDate>
+      
+      <guid>https://wuwoops.github.io/blog/test/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
